@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Home';
-import BondCalculator from './BondCalculator';
+import BondCalculator from './components/BondCalculator';
 
 function App() {
   return (
